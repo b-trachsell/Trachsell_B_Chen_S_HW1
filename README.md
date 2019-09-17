@@ -1,1 +1,5 @@
-# Trachsell_B_Chen_S_HW1
+# This is our bio information
+
+
+Breanna Trachsell, Siyu Chen,
+Where you're from etc...
